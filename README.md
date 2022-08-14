@@ -15,8 +15,4 @@ Advantages:
   3.  Has dynamic views count running on TikTok API
   4.  mobile users can run it
 ```
-To come:
-```
-  1. Proxy support
-  3. Bot using freer api so 2x faster (freer api is gay)
-```
+
