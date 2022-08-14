@@ -8,7 +8,7 @@ SELAMAT DATANG DI GITHUB X NOREALS
 
 &emsp;
 
-<h2 align="center">tutorial: <a href="WAIT">LINK</a></h2>
+<h2 align="center">tutorial: <a href="https://youtu.be/ENh0m6W_vh8">https://youtu.be/ENh0m6W_vh8</a></h2>
 
 <!--
 <p align="center">
